@@ -8,5 +8,11 @@ namespace LabExercises
 {
     public class Exercise3
     {
+
+        public void StringSplitter(params string[] input)
+        {
+            
+
+        }
     }
 }
