@@ -12,7 +12,8 @@ namespace LabExercises
         {
             //Exercise1 ex1 = new Exercise1();
             //Exercise2 ex2 = new Exercise2();
-            Exercise3 ex3 = new Exercise3();
+            //Exercise3 ex3 = new Exercise3();
+            Exercise4 ex4 = new Exercise4();
             //Exercise5 ex5 = new Exercise5();
             //Exercise6 ex6 = new Exercise6();
 
@@ -21,7 +22,7 @@ namespace LabExercises
             //ex2.FindUserInfo();
             //ex2.PrintInfo();
 
-            ex3.StringSplitter("bacon", "ham", "pepperoni", "beef", "pizza", "tacos");
+            //ex3.StringSplitter("My favorite foods are pizza, tacos, burritos, and chocolate");
 
             //ex5.RepeatWord("Hola");
             //ex6.PrintByIndex();
